@@ -1,0 +1,19 @@
+{
+  "name": "message-mixer",
+  "version": "1.0.0",
+  "description": "<a href=\"https://www.codecademy.com/courses/learn-intermediate-javascript/projects/message-mixer-node\">codecademy<a> project - modules",
+  "main": "encryptors.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuFabb/Message-Mixer.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LuFabb/Message-Mixer/issues"
+  },
+  "homepage": "https://github.com/LuFabb/Message-Mixer#readme"
+}
